@@ -2,7 +2,7 @@
 /**
  * 
  * @param {String} carta }
- * @returns {HTMLImg  Element} Elemento de retorno
+ * @returns {HTMLImgElement} Elemento de retorno
  */
 export const crearCartaHTML = (carta)=>{
 
