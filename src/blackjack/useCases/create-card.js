@@ -14,3 +14,4 @@ export const crearCartaHTML = (carta)=>{
 
     return imgCarta;
 }
+  
