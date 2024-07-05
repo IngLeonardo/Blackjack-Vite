@@ -1,5 +1,7 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/Blackjack-Vite/',
-}); 
+  // Puedes personalizar la ruta aquí si lo deseas
+  publicDir: 'public',
+  base: '/Blackjack-Vite/'
+})
