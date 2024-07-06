@@ -28,7 +28,7 @@ const puntosHTML = document.querySelectorAll('small');
 
 
 deck = crearDeck(tipos, especiales);
-console.log(deck);
+
 
 
   
